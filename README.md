@@ -5,3 +5,4 @@
 -   文章中时区为 UTC+0
 -   文章名与图片资源文件夹名称相同
 -   文章中的 urlname 字段对应文章的 URI，即 `https://www.nite07.com/${urlname}`
+-   可以通过登录 https://d2.nite07.org/ 上传文件 （用户名：`upload` 密码：`nite07.com`），上传后文章中引用路径为 `/download/index.html?f=文件名`
