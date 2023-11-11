@@ -1,9 +1,9 @@
 ---
-title: Minitab 21.4.1 学习版
+title: Minitab 21.4.2 学习版
 tags: [中文, 实用资源, Windows, 办公相关]
 cover: /img/Minitab/1.jpg
 date: 2022-11-04 14:30:23
-updated: 2023-06-28 06:00:00
+updated: 2023-11-11 04:00:00
 categories: [实用资源, Windows, 办公相关]
 urlname: minitab
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 办公相关]
@@ -19,4 +19,4 @@ Minitab 软件是现代质量管理统计软件，全球六西格玛实施的共
 
 # 下载
 
-{% btn '/download/index.html?f=Minitab-21.4.1.zip',下载 %}
+{% btn '/download/index.html?f=Minitab-21.4.2.zip',下载 %}

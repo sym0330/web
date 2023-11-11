@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, 傲软录屏]
 urlname: apowersoft
 cover: /img/Apowersoft/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 傲软录屏]
-updated: 2023-10-30 12:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -37,5 +37,5 @@ updated: 2023-10-30 12:00:00
 | [Video Editor 1.6.3.4 安装版](/download/index.html?f=Apowersoft-Video-Editor-1.6.3.4.zip)                                      | 2023-07-24 |
 | [Watermark Remover 1.4.19.1 安装版](/download/index.html?f=Apowersoft-Watermark-Remover-1.4.19.1.zip)                          | 2023-07-24 |
 | [Watermark Remover 1.4.19.1 便携版](/download/index.html?f=Apowersoft-Watermark-Remover-1.4.19.1-Portable.zip)                 | 2023-07-24 |
-| [Screen Capture Pro 1.5.2.0 安装版](/download/index.html?f=Apowersoft-Screen-Capture-Pro-1.5.2.0.zip)                          | 2023-08-04 |
+| [Screen Capture Pro 1.5.3.0 安装版](/download/index.html?f=Apowersoft-Screen-Capture-Pro-1.5.3.0.zip)                          | 2023-11-11 |
 | [Screen Capture Pro 1.5.2.0 便携版](/download/index.html?f=Apowersoft-Screen-Capture-1.5.2.0-Portable.zip)                     | 2023-08-08 |

@@ -1,13 +1,14 @@
 ---
-title: Topaz Video AI 4.0.1 (安装/便携) 学习版
+title: Topaz Video AI 4.0.3 (安装/便携) 学习版
 date: 2021-11-23 09:05:42
 categories:
-  - [实用资源, Windows, 媒体处理]
+    - [实用资源, Windows, 媒体处理]
 tags: [英文, 实用资源, Windows, Topaz Video AI]
 urlname: topazvideoai
 cover: /img/TopazVideoAI/1.jpg
-keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Topaz Video AI]
-updated: 2023-10-30 12:00:00
+keywords:
+    [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Topaz Video AI]
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -21,6 +22,6 @@ Topaz Labs 发布了 Video AI 3.0，这是其基于 AI 的软件的最新版本�
 
 # 下载
 
-{% btn '/download/index.html?f=Topaz-Video-AI-4.0.1-Repack.zip','4.0.1 安装版' %}
+{% btn '/download/index.html?f=Topaz-Video-AI-4.0.3-Repack.zip','4.0.3 安装版' %}
 <br>
 {% btn '/download/index.html?f=Topaz-Video-Ai-4.0.0-Portable.zip','4.0.0 便携版' %}

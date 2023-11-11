@@ -1,9 +1,9 @@
 ---
-title: Tenorshare 4DDiG 9.7.7.1 学习版
+title: Tenorshare 4DDiG 9.8.4.2 学习版
 tags: [中文, 实用资源, Windows, Tenorshare, 4DDiG]
 cover: /img/Tenorshare-4DDiG/1.jpg
 date: 2023-10-30 12:00:00
-updated: 2023-10-30 12:00:00
+updated: 2023-11-11 04:00:00
 categories: [实用资源, Windows, 备份还原]
 urlname: tenorshare4ddig
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Tenorshare, 4DDiG]
@@ -19,4 +19,4 @@ keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Teno
 
 # 下载
 
-{% btn '/download/index.html?f=Tenorshare-4DDiG-9.7.7.1.zip',下载 %}
+{% btn '/download/index.html?f=Tenorshare-4DDiG-9.8.4.2.zip',下载 %}

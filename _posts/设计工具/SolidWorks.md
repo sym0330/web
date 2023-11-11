@@ -1,12 +1,12 @@
 ---
-title: SolidWorks 2023 SP2.1 学习版
+title: SolidWorks 2024 SP0.1 学习版
 tags: [中文, 实用资源, Windows, 设计工具]
 date: 2022-04-14 20:56:16
 categories: [实用资源, Windows, 设计工具]
 urlname: solidworks
 cover: /img/SolidWorks/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 设计工具]
-updated: 2023-05-22 19:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -15,4 +15,10 @@ SolidWorks 是一套机械设计自动化软件，采用用户熟悉的 Windows 
 
 # 下载
 
-{% btn '/download/index.html?f=SolidWorks-2023-SP2.1.zip',下载 %}
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.zip',下载 %}
+</br>
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z01',下载 %}
+</br>
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z02',下载 %}
+</br>
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z03',下载 %}

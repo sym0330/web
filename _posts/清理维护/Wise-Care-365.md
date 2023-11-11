@@ -5,8 +5,9 @@ categories: [实用资源, Windows, 清理维护]
 tags: [中文, 实用资源, Windows, Wise Care 365]
 urlname: wisecare365
 cover: /img/Wise-Care-365/1.png
-keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Wise Care 365]
-updated: 2023-10-22 06:00:00
+keywords:
+    [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Wise Care 365]
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -21,4 +22,4 @@ Wise Care 365 是由 WiseCleaner 开发的一款用来管理，维护，配置�
 
 {% btn '/download/index.html?f=Wise-Care-365-Pro-6.6.2.632.zip','6.6.2.632 安装版' %}
 <br>
-{% btn '/download/index.html?f=Wise-Care-Pro-6.5.7.630-Portable.zip','6.5.7.630 便携版' %}
+{% btn '/download/index.html?f=Wise-Care-Pro-6.6.2.632-Portable.zip','6.6.2.632 便携版' %}

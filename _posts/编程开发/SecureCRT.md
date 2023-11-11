@@ -1,12 +1,24 @@
 ---
-title: VanDyke SecureCRT and SecureFX 9.3.2.2978 学习版
+title: VanDyke SecureCRT and SecureFX 9.4.1.3102 学习版
 date: 2022-02-25 22:39:01
 categories: [实用资源, Windows, 编程开发]
 tags: [英文, 实用资源, Windows, SecureCRT, SecureFX]
 urlname: securecrt
 cover: /img/SecureCRT/1.jpg
-keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, SecureCRT, SecureFX]
-updated: 2023-02-08 13:00:00
+keywords:
+    [
+        实用资源,
+        破解,
+        去广告,
+        纯净,
+        绿色,
+        白嫖,
+        免费,
+        Windows,
+        SecureCRT,
+        SecureFX,
+    ]
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -30,4 +42,4 @@ SecureFX 是一款由 VanDyke Software, Inc.（中文译为：范戴克软件公
 
 # 下载
 
-{% btn '/download/index.html?f=VanDyke-SecureCRT-and-SecureFX-9.3.2.2978.zip',下载 %}
+{% btn '/download/index.html?f=VanDyke-SecureCRT-and-SecureFX-9.4.1.3102.zip',下载 %}

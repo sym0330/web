@@ -3,7 +3,7 @@ title: Autodesk系列软件学习版
 tags: [英文, 实用资源, Windows, Autodesk]
 cover: /img/Autodesk/1.jpg
 date: 2023-09-02 02:40:04
-updated: 2023-10-30 12:00:00
+updated: 2023-11-11 04:00:00
 categories: [实用资源, Windows, 系列软件]
 urlname: autodesk
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Autodesk]
@@ -28,10 +28,10 @@ Autodesk 是世界领先的设计软件和数字内容创建公司，用于建�
 
 ## AutoCAD
 
-| 软件名                                                                                    | 更新日期   |
-| ----------------------------------------------------------------------------------------- | ---------- |
-| [AutoCAD 2024](/download/index.html?f=Autodesk-AutoCAD-2024.zip)                          | 2023-07-26 |
-| [AutoCAD 2024.1 更新补丁](/download/index.html?f=Autodesk-AutoCAD-2024.1-Update-Only.zip) | 2023-07-26 |
+| 软件名                                                                                        | 更新日期   |
+| --------------------------------------------------------------------------------------------- | ---------- |
+| [AutoCAD 2024](/download/index.html?f=Autodesk-AutoCAD-2024.zip)                              | 2023-07-26 |
+| [AutoCAD 2024.1.1 更新补丁](/download/index.html?f=Autodesk-AutoCAD-2024.1.1-Update-Only.zip) | 2023-11-11 |
 
 ## Maya
 
@@ -60,9 +60,9 @@ Autodesk 是世界领先的设计软件和数字内容创建公司，用于建�
 
 ## CFD
 
-| 软件名                                                            | 更新日期   |
-| ----------------------------------------------------------------- | ---------- |
-| [CFD 2024](/download/index.html?f=Autodesk-CFD-2024-Ultimate.zip) | 2023-09-02 |
+| 软件名                                                                                | 更新日期   |
+| ------------------------------------------------------------------------------------- | ---------- |
+| [CFD 2024.0.1](/download/index.html?f=Autodesk-CFD-2024.0.1-Ultimate-Hotfix-Only.zip) | 2023-11-11 |
 
 ## Factory Design
 
@@ -81,7 +81,7 @@ Autodesk 是世界领先的设计软件和数字内容创建公司，用于建�
 | 软件名                                                                                                                | 更新日期   |
 | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Inventor Nesting](/download/index.html?f=Autodesk-Inventor-Nesting-2024.zip)                                         | 2023-09-02 |
-| [Inventor Professional 2024.1.1 分卷 1](/download/index.html?f=Autodesk-Inventor-Professional-2024.1.1-build-209.zip) | 2023-09-02 |
+| [Inventor Professional 2024.2 分卷 1](/download/index.html?f=Autodesk-Inventor-Professional-2024.2-Update-Only.zip)   | 2023-11-11 |
 | [Inventor Professional 2024.1.1 分卷 2](/download/index.html?f=Autodesk-Inventor-Professional-2024.1.1-build-209.z01) | 2023-09-02 |
 | [InventorCAM-Ultimate 2024.0.1](/download/index.html?f=Autodesk-InventorCAM-Ultimate-2024.0.1.zip)                    | 2023-09-02 |
 
@@ -99,12 +99,13 @@ Autodesk 是世界领先的设计软件和数字内容创建公司，用于建�
 
 ## Revit
 
-| 软件名                                                                      | 更新日期   |
-| --------------------------------------------------------------------------- | ---------- |
-| [Revit 2024.0.2 分卷 1](/download/index.html?f=Autodesk-Revit-2024.0.2.zip) | 2023-09-02 |
-| [Revit 2024.0.2 分卷 2](/download/index.html?f=Autodesk-Revit-2024.0.2.z01) | 2023-09-02 |
-| [Revit 2024.0.2 分卷 3](/download/index.html?f=Autodesk-Revit-2024.0.2.z02) | 2023-09-02 |
-| [Revit 2024.0.2 分卷 4](/download/index.html?f=Autodesk-Revit-2024.0.2.z03) | 2023-09-02 |
+| 软件名                                                                       | 更新日期   |
+| ---------------------------------------------------------------------------- | ---------- |
+| [Revit 2024.0.2 分卷 1](/download/index.html?f=Autodesk-Revit-2024.0.2.zip)  | 2023-09-02 |
+| [Revit 2024.0.2 分卷 2](/download/index.html?f=Autodesk-Revit-2024.0.2.z01)  | 2023-09-02 |
+| [Revit 2024.0.2 分卷 3](/download/index.html?f=Autodesk-Revit-2024.0.2.z02)  | 2023-09-02 |
+| [Revit 2024.0.2 分卷 4](/download/index.html?f=Autodesk-Revit-2024.0.2.z03)  | 2023-09-02 |
+| [Revit 2024.2](/download/index.html?f=Autodesk-Revit-2024.2-Update-Only.zip) | 2023-11-11 |
 
 ## ShotGrid
 

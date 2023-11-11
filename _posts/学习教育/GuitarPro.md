@@ -1,12 +1,12 @@
 ---
-title: Guitar Pro 8.0.2(24) 学习版
+title: Guitar Pro 8.1.1(17) 学习版
 date: 2021-10-20 11:39:15
 categories: [实用资源, Windows, 学习教育]
 tags: [中文, 实用资源, Windows, GuitarPro]
 urlname: guitarpro
 cover: /img/GuitarPro/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, GuitarPro]
-updated: 2022-11-20 23:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ Guitar Pro 是一款倍受吉他手喜爱的吉他和弦、六线谱、BASS 四�
 
 # 下载
 
-{% btn '/download/index.html?f=Guitar-Pro_8.0.2-Build-24.7z',下载 %}
+{% btn '/download/index.html?f=Guitar-Pro-8.1.1-Build-17.zip',下载 %}

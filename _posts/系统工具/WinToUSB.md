@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, WinToUSB]
 urlname: wintousb
 cover: /img/WinToUSB/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, WinToUSB]
-updated: 2023-09-28 05:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -22,3 +22,5 @@ WinToUSB 是一个免费的应用软件。 它可以将 Windows 操作系统从 
 {% btn '/download/index.html?f=WinToUSB-8.2--All-Editions.zip','8.2 安装版' %}
 <br>
 {% btn '/download/index.html?f=Hasleo-Wintousb-8.2.0.2-Portable.zip','8.2 便携版' %}
+<br>
+{% btn '/download/index.html?f=Hasleo-Wintohdd-6.2.0.2-Te-Portable.zip','6.2.0.2 便携版' %}

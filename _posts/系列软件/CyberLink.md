@@ -6,7 +6,7 @@ date: 2022-05-24 10:54:09
 categories: [实用资源, Windows, 系列软件]
 urlname: cyberlink
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, CyberLink]
-updated: 2023-10-30 12:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -21,7 +21,7 @@ CYBERLINK 总部位于台湾的讯连科技创立于 1995 年，拥有顶尖视�
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [CyberLink ActionDirector Ultra 3.0.7425.0](/download/index.html?f=CyberLink%20ActionDirector%20Ultra%203.0.7425.0%20x64.7z)  | -          |
 | [CyberLink ColorDirector Ultra 12.0.3416.0](/download/index.html?f=CyberLink-ColorDirector-Ultra-2024-v12.0.3416.0.zip)       | 2023-10-22 |
-| [CyberLink AudioDirector Ultra 14.0.3325.0](/download/index.html?f=CyberLink-AudioDirector-Ultra-2024-v14.0.3325.0.zip)       | 2023-09-28 |
+| [CyberLink AudioDirector Ultra 14.0.3503.0](/download/index.html?f=CyberLink-AudioDirector-Ultra-2024-v14.0.3503.11.zip)      | 2023-11-11 |
 | [CyberLink PowerDirector Ultimate 22.0.2129.0](/download/index.html?f=CyberLink-PowerDirector-Ultimate-2024-v22.0.2129.0.zip) | 2023-10-22 |
 | [CyberLink PowerDVD Ultra 22.0.3418.62](/download/index.html?f=CyberLink-PowerDVD-Ultra-22.0.3418.62.zip)                     | 2023-10-30 |
 | [CyberLink PhotoDirector Ultra 15.0.1004.0](/download/index.html?f=CyberLink-PhotoDirector-Ultra-2024-v15.0.1004.0.zip)       | 2023-10-07 |

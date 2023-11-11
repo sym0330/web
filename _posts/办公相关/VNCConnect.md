@@ -1,12 +1,12 @@
 ---
-title: RealVNC Server 7.7.0 学习版
+title: RealVNC Server 7.8.0 学习版
 date: 2021-12-05 21:04:59
 categories: [实用资源, Windows, 办公相关]
 tags: [英文, 实用资源, Windows, VNC Connect]
 urlname: vncconnect
 cover: /img/VNCConnect/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, VNC Connect]
-updated: 2023-10-22 06:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ RealVNC Server/VNC Connect Enterprise 是一套功能强大轻量型的远程控
 
 # 下载
 
-{% btn '/download/index.html?f=RealVNC-VNC-Server-Enterprise-7.7.0.zip',Server %}
+{% btn '/download/index.html?f=RealVNC-VNC-Server-Enterprise-7.8.0.zip',Server %}
