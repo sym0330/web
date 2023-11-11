@@ -7,7 +7,7 @@ urlname: totaluninstall
 cover: /img/TotalUninstall/1.jpg
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Total Uninstall]
-updated: 2023-11-11 04:00:00
+updated: 2023-10-11 16:00:00
 ---
 
 # 简介
@@ -23,4 +23,3 @@ Total Uninstall 能帮你监视软件安装的所有过程，记录下它对系�
 {% btn '/download/index.html?f=Total-Uninstall-Professional-7.5.0.655.zip','7.5.0.655 安装版' %}
 <br>
 {% btn '/download/index.html?f=Total-Uninstall-Professional-7.4.0.650-Portable.zip','7.4.0.650 便携版' %}
-{% btn '/download/index.html?f=Total-Uninstaller-2023-v3.0.0.566.zip','3.0.0.566 安装版' %}

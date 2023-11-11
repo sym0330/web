@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, WinToHDD]
 urlname: wintohdd
 cover: /img/WinToHDD/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, WinToHDD]
-updated: 2023-10-30 12:00:00
+updated: 2023-11-11 04:00:00
 ---
 
 # 简介
@@ -21,4 +21,4 @@ WinToHDD 允许你在不使用 CD/DVD 或 USB 驱动器的情况下安装或重�
 
 {% btn '/download/index.html?f=WinToHDD-6.2.zip','6.2 安装版' %}
 <br>
-{% btn '/download/index.html?f=WinToHDD-Ent-6.0.2-Portable.zip','6.0.2 便携版' %}
+{% btn '/download/index.html?f=Hasleo-Wintohdd-6.2.0.2-Te-Portable.zip','6.2.0.2 便携版' %}

@@ -15,10 +15,10 @@ SolidWorks 是一套机械设计自动化软件，采用用户熟悉的 Windows 
 
 # 下载
 
-{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.zip',下载 %}
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.zip',分卷1 %}
 </br>
-{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z01',下载 %}
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z01',分卷2 %}
 </br>
-{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z02',下载 %}
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z02',分卷3 %}
 </br>
-{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z03',下载 %}
+{% btn '/download/index.html?f=SolidWorks-2024-SP0.1-Full-Premium.z03',分卷4 %}

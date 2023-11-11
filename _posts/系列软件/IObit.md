@@ -22,7 +22,7 @@ IObit 成立于 2004 年，总部位于中国深圳。该公司专注于开发�
 
 | 文件                                                                                                                      | 更新时间   |
 | ------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [IObit Driver Booster Pro 11.0.0.26 安装版](/download/index.html?f=IObit-Driver-Booster-Pro-11.1.0.26.zip)                | 2023-11-11 |
+| [IObit Driver Booster Pro 11.1.0.26 安装版](/download/index.html?f=IObit-Driver-Booster-Pro-11.1.0.26.zip)                | 2023-11-11 |
 | [IObit Driver Booster Pro 11.1.0.26 便携版](/download/index.html?f=Iobit-Driver-Booster-11.1.0.26-Portable.zip)           | 2023-11-11 |
 | [IObit Smart Defrag Pro 9.0.0.323 安装版](/download/index.html?f=IObit-Smart-Defrag-Pro-9.2.0.323.zip)                    | 2023-11-11 |
 | [IObit Smart Defrag Pro 9.0.0.311 便携版](/download/index.html?f=Iobit-Smart-Defrag-9.0.0.311-Portable.zip)               | 2023-08-16 |

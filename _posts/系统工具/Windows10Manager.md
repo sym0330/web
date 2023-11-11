@@ -1,5 +1,5 @@
 ---
-title: Yamicsoft Windows 11 Manager 1.3.3 (安装/便携) 学习版
+title: Yamicsoft Windows 10 Manager 3.8.7 (安装/便携) 学习版
 date: 2021-11-11 19:29:54
 categories: [实用资源, Windows, 系统工具]
 tags: [中文, 实用资源, Windows, Windows10 Manager]
@@ -20,6 +20,6 @@ Windows 10 Manager（win10 优化大师）是来自香港 Yamicsoft 公司一款
 
 # 下载
 
-{% btn '/download/index.html?f=Yamicsoft-Windows-11-Manager-1.3.3.zip','1.3.3 安装版' %}
+{% btn '/download/index.html?f=Yamicsoft-Windows-10-Manager-3.8.7.zip','3.8.7 安装版' %}
 <br>
 {% btn '/download/index.html?f=Windows-10-Manager-3.8.7-Portable.zip','3.8.7 便携版' %}

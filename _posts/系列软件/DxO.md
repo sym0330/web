@@ -18,7 +18,7 @@ DxO 是法国的一家软件开发公司，致力于图像处理软件的开发
 
 | 文件                                                                                    | 更新时间   |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [DxO FilmPack 7.0.1.481 Elite](/download/index.html?f=DxO-FilmPack-7.1.0.481-Elite.zip) | 2023-11-11 |
+| [DxO FilmPack 7.1.0.481 Elite](/download/index.html?f=DxO-FilmPack-7.1.0.481-Elite.zip) | 2023-11-11 |
 | [DxO PhotoLab 7.1.0.94 Elite](/download/index.html?f=DxO-PhotoLab-7.1.0.94-Elite.zip)   | 2023-11-11 |
 | [DxO PureRAW 3.7.0.28](/download/index.html?f=DxO-PureRAW-3.7.0.28.zip)                 | 2023-11-11 |
 | [DxO ViewPoint 4.10.0](/download/index.html?f=DxO-ViewPoint-4.10.0-Build-250.zip)       | 2023-09-28 |
