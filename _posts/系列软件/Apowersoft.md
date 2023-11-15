@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, 傲软录屏]
 urlname: apowersoft
 cover: /img/Apowersoft/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 傲软录屏]
-updated: 2023-11-11 04:00:00
+updated: 2023-11-15 07:00:00
 ---
 
 # 简介
@@ -22,7 +22,7 @@ updated: 2023-11-11 04:00:00
 
 | 文件                                                                                                                           | 更新时间   |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| [ApowerREC 1.6.7.10 安装版](/download/index.html?f=ApowerREC-1.6.7.10.zip)                                                     | 2023-10-30 |
+| [ApowerREC 1.6.8.8 安装版](/download/index.html?f=ApowerREC-1.6.8.8.zip)                                                       | 2023-11-15 |
 | [ApowerREC 1.6.5.18 便携版](/download/index.html?f=ApowerREC-1.6.5.18-Portable.zip)                                            | 2023-08-03 |
 | [ApowerCompress 1.1.18.1 安装版](/download/index.html?f=Apowersoft-ApowerCompress-1.1.18.1.zip)                                | 2023-07-24 |
 | [ApowerCompress 1.1.18.1 便携版](/download/index.html?f=Apowersoft-ApowerCompress-1.1.18.1-Portable.zip)                       | 2023-07-24 |

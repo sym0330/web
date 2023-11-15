@@ -1,13 +1,13 @@
 ---
-title: TechSmith Camtasia 23.3.2(49471) 学习版
+title: TechSmith Camtasia 23.3.3.49804 学习版
 date: 2021-10-13 19:52:12
 categories:
-  - [实用资源, Windows, 媒体处理]
+    - [实用资源, Windows, 媒体处理]
 tags: [中文, 实用资源, Windows, Camtasia]
 urlname: camtasia
 cover: /img/Camtasia/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Camtasia]
-updated: 2023-10-22 06:00:00
+updated: 2023-11-15 07:00:00
 # password: nite07home
 ---
 
@@ -21,4 +21,4 @@ Camtasia 是美国 TechSmith 公司出品的一款集电脑屏幕录制、视频
 
 # 下载
 
-{% btn '/download/index.html?f=Techsmith-Camtasia-2023-23.3.2.49471.zip',下载 %}
+{% btn '/download/index.html?f=Techsmith-Camtasia-2023-23.3.3.49804.zip',下载 %}

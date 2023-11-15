@@ -6,7 +6,7 @@ tags: [中文, 实用资源, Windows, XYplorer]
 urlname: xyplorer
 cover: /img/XYplorer/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, XYplorer]
-updated: 2023-11-11 04:00:00
+updated: 2023-11-15 07:00:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ updated: 2023-11-11 04:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=XYplorer-25.10.0000.zip','25.10.0000 安装版' %}
+{% btn '/download/index.html?f=XYplorer-25.10.0100.zip','25.10.0100 安装版' %}
 <br>
 {% btn '/download/index.html?f=Xyplorer-25.10.0100-Portable.zip','25.10.0100 便携版' %}
