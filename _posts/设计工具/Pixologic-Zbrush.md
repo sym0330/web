@@ -1,9 +1,9 @@
 ---
-title: Pixologic Zbrush 2023.2.1 学习版
+title: Pixologic Zbrush 2024.0 学习版
 tags: [中文, 实用资源, Windows, 设计工具]
 cover: /img/Pixologic-Zbrush/1.jpg
 date: 2023-01-27 10:42:32
-updated: 2023-08-08 08:00:00
+updated: 2023-11-17 04:00:00
 categories: [实用资源, Windows, 设计工具]
 urlname: pixologiczbrush
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 设计工具]
@@ -19,4 +19,4 @@ ZBrush 是一个数字雕刻和绘画软件，它以强大的功能和直观的�
 
 # 下载
 
-{% btn '/download/index.html?f=Pixologic-Zbrush-2023.2.1.zip',下载 %}
+{% btn '/download/index.html?f=Pixologic-ZBrush-2024.0.zip',下载 %}

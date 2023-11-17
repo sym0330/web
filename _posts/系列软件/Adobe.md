@@ -70,7 +70,7 @@ keywords:
         Adobe FrameMaker,
         Firefly FAI Support for Adobe Photoshop,
     ]
-updated: 2023-11-11 04:00:00
+updated: 2023-11-17 04:00:00
 ---
 
 # 简介
@@ -96,8 +96,8 @@ Adobe 公司是一家美国的计算机软件公司，主要开发和销售数�
 | [Adobe Dreamweaver 2021 21.3](/download/index.html?f=Adobe-Dreamweaver_2021-21.3.7z)                                   | 2022-07-01 |
 | [Adobe Fresco 5.0.1](/download/index.html?f=Adobe-Fresco-v5.0.1.iso)                                                   | 2023-11-11 |
 | [Adobe Illustrator 2024 28.0](/download/index.html?f=Adobe-Illustrator-2024-v28.0.iso)                                 | 2023-10-12 |
-| [Adobe InCopy 2024 19.0](/download/index.html?f=Adobe-InCopy-2024-v19.0.iso)                                           | 2023-10-22 |
-| [Adobe InDesign 2024 19.0](/download/index.html?f=Adobe-InDesign-2024-v19.0.iso)                                       | 2023-10-12 |
+| [Adobe InCopy 2024 19.0.1](/download/index.html?f=Adobe-InCopy-2024-v19.0.1.iso)                                       | 2023-11-17 |
+| [Adobe InDesign 2024 19.0.1](/download/index.html?f=Adobe-InDesign-2024-v19.0.1.iso)                                   | 2023-11-17 |
 | [Adobe Lightroom CC 5.5](/download/index.html?f=Adobe-Photoshop-Lightroom_5.5.7z)                                      | 2022-08-18 |
 | [Adobe Lightroom Classic 13.0.1](/download/index.html?f=Adobe-Lightroom-Classic-v13.0.1.iso)                           | 2023-10-22 |
 | [Adobe Media Encoder 2024 24.0.2](/download/index.html?f=Adobe-Media-Encoder-2024-v24.0.2.iso)                         | 2023-11-11 |

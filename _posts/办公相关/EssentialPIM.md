@@ -1,9 +1,9 @@
 ---
-title: EssentialPIM Pro Bussiness 11.7.2 (安装/便携) 学习版
+title: EssentialPIM Pro Bussiness 11.7.3 (安装/便携) 学习版
 tags: [中文, 实用资源, Windows, 办公相关]
 cover: /img/EssentialPIM/1.jpg
 date: 2023-04-19 00:10:17
-updated: 2023-10-22 06:00:00
+updated: 2023-11-17 04:00:00
 categories: [实用资源, Windows, 办公相关]
 urlname: essentialpim
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 办公相关]
@@ -19,6 +19,6 @@ EssentialPIM Pro 是一款专业的个人信息管理工具，能够很好的帮
 
 # 下载
 
-{% btn '/download/index.html?f=EssentialPIM-Pro-Business-11.7.2.zip','11.7.2 安装版' %}
+{% btn '/download/index.html?f=EssentialPIM-Pro-Business-11.7.3.zip','11.7.3 安装版' %}
 <br>
 {% btn '/download/index.html?f=EssentialPIM-Pro-Business-11.6.5-Portable.zip','11.6.5 便携版' %}

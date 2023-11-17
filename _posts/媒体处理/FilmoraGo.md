@@ -1,12 +1,12 @@
 ---
-title: Wondershare Filmora Pro 9.6.60 安卓学习版
+title: Wondershare Filmora Pro 13.1.00 安卓学习版
 date: 2021-08-27 19:34:46
 categories: [实用资源, Android, 媒体处理]
 tags: [中文, 实用资源, 万兴, 喵影, Filmora]
 urlname: filmorago
 cover: /img/FilmoraGo/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, 万兴, 喵影, Filmora]
-updated: 2023-10-30 12:00:00
+updated: 2023-11-17 04:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ updated: 2023-10-30 12:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=Filmora-v9.6.60.apk',下载 %}
+{% btn '/download/index.html?f=Filmora-Pro-v13.1.00-build-13100.apk',下载 %}
