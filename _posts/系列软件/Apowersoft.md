@@ -1,7 +1,9 @@
 ---
 title: 傲软(Apowersoft)系列软件 学习版
 date: 2021-10-10 20:53:41
-categories: [实用资源, Windows, 录像截屏]
+categories:
+    - [实用资源, Windows, 录像截屏]
+    - [合集]
 tags: [中文, 实用资源, Windows, 傲软录屏]
 urlname: apowersoft
 cover: /img/Apowersoft/1.jpg

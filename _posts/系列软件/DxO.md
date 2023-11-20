@@ -4,7 +4,9 @@ tags: [中文, 实用资源, Windows, 系列软件, DxO]
 cover: /img/DxO/1.jpg
 date: 2023-02-12 11:21:57
 updated: 2023-11-11 04:00:00
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 urlname: dxo
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 系列软件, DxO]

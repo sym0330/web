@@ -1,7 +1,9 @@
 ---
 title: Macrorit 系列软件学习版
 date: 2022-02-20 11:09:49
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 tags: [实用资源, Windows, 系列软件, Macrorit]
 urlname: macrorit
 cover: /img/Macrorit/1.jpg

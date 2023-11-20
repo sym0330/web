@@ -4,7 +4,9 @@ tags: [中文, 实用资源, Windows, IDM]
 cover: /img/IDM/1.png
 date: 2023-10-07 12:32:52
 updated: 2023-10-07 12:32:52
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 urlname: idm
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, IDM]
 ---

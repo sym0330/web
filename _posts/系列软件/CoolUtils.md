@@ -3,7 +3,9 @@ title: CoolUtils系列软件 Windows便携学习版
 tags: [实用资源, Windows, CoolUtils]
 cover: /img/CoolUtils/1.jpg
 date: 2022-04-21 12:04:49
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 urlname: coolutils
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, CoolUtils]
 updated: 2023-09-11 12:00:00

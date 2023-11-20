@@ -4,7 +4,9 @@ tags: [实用资源, Windows, AOMEI]
 cover: /img/AOMEI/1.jpg
 date: 2023-06-21 01:09:06
 updated: 2023-11-11 04:00:00
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 urlname: aomei
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, AOMEI]
 ---

@@ -1,7 +1,9 @@
 ---
 title: Adobe全家桶 Windows学习版
 date: 2021-08-04 22:32:28
-categories: [实用资源, Windows, 系列软件]
+categories:
+    - [实用资源, Windows, 系列软件]
+    - [合集]
 tags:
     [
         Adobe,
@@ -70,7 +72,7 @@ keywords:
         Adobe FrameMaker,
         Firefly FAI Support for Adobe Photoshop,
     ]
-updated: 2023-11-17 04:00:00
+updated: 2023-11-20 04:00:00
 ---
 
 # 简介
@@ -87,9 +89,9 @@ Adobe 公司是一家美国的计算机软件公司，主要开发和销售数�
 | 文件                                                                                                                   | 更新时间   |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Adobe Acrobat DC Pro 2023 23.6.20380](/download/index.html?f=Adobe-Acrobat-Pro-2023-v23.6.20380.iso)                  | 2023-11-11 |
-| [Adobe After Effects 2024 24.0.2](/download/index.html?f=Adobe-After-Effects-2024-v24.0.2.iso)                         | 2023-11-11 |
+| [Adobe After Effects 2024 24.0.3](/download/index.html?f=Adobe-After-Effects-2024-v24.0.3.iso)                         | 2023-11-20 |
 | [Adobe Animate 2024 24.0](/download/index.html?f=Adobe-Animate-2024-v24.0.iso)                                         | 2023-10-22 |
-| [Adobe Audition 2024 24.0](/download/index.html?f=Adobe-Audition-2024-v24.0.iso)                                       | 2023-10-22 |
+| [Adobe Audition 2024 24.0.3](/download/index.html?f=Adobe-Audition-2024-v24.0.3.iso)                                   | 2023-11-20 |
 | [Adobe Bridge 2024 14.0.0](/download/index.html?f=Adobe-Bridge-2024-v14.0.0.iso)                                       | 2023-09-18 |
 | [Adobe Character Animate 2024 24.0](/download/index.html?f=Adobe-Character-Animator-2024-v24.0.iso)                    | 2023-10-22 |
 | [Adobe Dimension 3.4.10](/download/index.html?f=Adobe-Dimension-v3.4.10.iso)                                           | 2023-08-13 |
@@ -100,11 +102,11 @@ Adobe 公司是一家美国的计算机软件公司，主要开发和销售数�
 | [Adobe InDesign 2024 19.0.1](/download/index.html?f=Adobe-InDesign-2024-v19.0.1.iso)                                   | 2023-11-17 |
 | [Adobe Lightroom CC 5.5](/download/index.html?f=Adobe-Photoshop-Lightroom_5.5.7z)                                      | 2022-08-18 |
 | [Adobe Lightroom Classic 13.0.1](/download/index.html?f=Adobe-Lightroom-Classic-v13.0.1.iso)                           | 2023-10-22 |
-| [Adobe Media Encoder 2024 24.0.2](/download/index.html?f=Adobe-Media-Encoder-2024-v24.0.2.iso)                         | 2023-11-11 |
+| [Adobe Media Encoder 2024 24.0.3](/download/index.html?f=Adobe-Media-Encoder-2024-v24.0.3.iso)                         | 2023-11-20 |
 | [Adobe Photoshop 2024 25.1](/download/index.html?f=Adobe-Photoshop-2024-v25.1.iso)                                     | 2023-10-30 |
 | [Adobe Photoshop Elements 2024 24.0](/download/index.html?f=Adobe-Photoshop-Elements-2024-v24.0.iso)                   | 2023-10-12 |
 | [Adobe Prelude 2022 22.6.0.6](/download/index.html?f=Adobe-Prelude_2022-22.6.0.6.7z)                                   | 2022-08-25 |
-| [Adobe Premiere Pro 2024 24.0](/download/index.html?f=Adobe-Premiere-Pro-2024-v24.0.iso)                               | 2023-10-22 |
+| [Adobe Premiere Pro 2024 24.0.3](/download/index.html?f=Adobe-Premiere-Pro-2024-v24.0.3.iso)                           | 2023-11-20 |
 | [Adobe Premiere Elements 2024 24.0](/download/index.html?f=Adobe-Premiere-Elements-2024-v24.0.iso)                     | 2023-10-12 |
 | [Adobe Premiere Rush 2.9.0.14](/download/index.html?f=Adobe-Premiere-Rush-2.9.0.14.zip)                                | 2023-06-28 |
 | [Adobe Substance 3D Designer 13.0.2](/download/index.html?f=Adobe-Substance-3D-Designer-13.0.2.iso)                    | 2023-07-31 |

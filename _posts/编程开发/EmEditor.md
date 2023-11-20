@@ -1,12 +1,12 @@
 ---
-title: EmEditor Pro 22.5.2 (安装/便携) 学习版
+title: EmEditor Pro 23.0.1 (安装/便携) 学习版
 date: 2021-09-16 17:52:36
 categories: [实用资源, Windows, 编程开发]
 tags: [中文, 实用资源, Windows, emeditor]
 urlname: emeditor
 cover: /img/EmEditor/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, emeditor]
-updated: 2023-08-13 03:00:00
+updated: 2023-11-20 04:00:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ EmEditor 是日本的江村软件公司（Emurasoft）所开发的一款在 Wind
 
 # 下载
 
-{% btn '/download/index.html?f=Emurasoft-EmEditor-Professional-22.5.2.zip','22.5.2 安装版' %}
+{% btn '/download/index.html?f=Emurasoft-EmEditor-Professional-23.0.1.zip','23.0.1 安装版' %}
 <br>
 {% btn '/download/index.html?f=Emeditor-22.5.2-Portable.zip','22.5.2 便携版' %}
