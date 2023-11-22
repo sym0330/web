@@ -3,7 +3,7 @@ title: Icecream 系列软件 Windows 学习版
 tags: [中文, 实用资源, Windows, Icecream]
 cover: /img/Icecream/1.jpg
 date: 2023-03-19 11:21:56
-updated: 2023-11-20 04:00:00
+updated: 2023-11-22 16:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -21,7 +21,7 @@ Icecream Apps 是一家乌克兰的软件公司，成立于 2014 年，总部位
 | --------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Icecream PDF Editor Pro 3.12 安装版](/download/index.html?f=Icecream-PDF-Editor-Pro-3.12.zip)                        | 2023-10-30 |
 | [Icecream PDF Editor Pro 3.12 便携版](/download/index.html?f=Icecream-Pdf-Editor-3.12-Portable.zip)                   | 2023-10-30 |
-| [Icecream Screen Recorder Pro 7.31 安装版](/download/index.html?f=Icecream-Screen-Recorder-Pro-7.31.zip)              | 2023-11-11 |
+| [Icecream Screen Recorder Pro 7.32 安装版](/download/index.html?f=Icecream-Screen-Recorder-Pro-7.32.zip)              | 2023-11-22 |
 | [Icecream Screen Recorder Pro 7.31 便携版](/download/index.html?f=Icecream-Screen-Recorder-7.31-Portable.zip)         | 2023-11-11 |
 | [Icecream Ebook Reader Pro 6.40 安装版](/download/index.html?f=Icecream-Ebook-Reader-Pro-6.40.zip)                    | 2023-11-11 |
 | [Icecream Ebook Reader Pro 6.34 便携版](/download/index.html?f=Icecream-Ebook-Reader-6.34-Portable.zip)               | 2023-08-29 |

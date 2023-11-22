@@ -1,13 +1,14 @@
 ---
-title: Sublime Text 4 Build 4152 学习版
+title: Sublime Text 4 Build 4166 学习版
 date: 2021-11-14 15:53:28
 categories:
     - [实用资源, Windows, 编程开发]
 tags: [英文, 实用资源, Windows, Sublime Text]
 urlname: sublimetext
 cover: /img/SublimeText/1.jpg
-keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Sublime Text]
-updated: 2023-08-10 05:00:00
+keywords:
+    [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Sublime Text]
+updated: 2023-11-22 16:00:00
 ---
 
 # 简介
@@ -21,4 +22,4 @@ Sublime Text 具有漂亮的用户界面和强大的功能，例如代码缩略�
 
 # 下载
 
-{% btn '/download/index.html?f=Sublime-Text-4-Build-4152.zip','4152' %}
+{% btn '/download/index.html?f=Sublime-Text-4-Build-4166.zip','下载' %}

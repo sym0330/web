@@ -6,18 +6,18 @@ tags: [中文, 实用资源, Windows, CorelDRAW Technical Suite]
 urlname: coreldrawts
 cover: /img/CorelDRAW-Technical-Suite/1.jpg
 keywords:
-  [
-    实用资源,
-    破解,
-    去广告,
-    纯净,
-    绿色,
-    白嫖,
-    免费,
-    Windows,
-    CorelDRAW Technical Suite,
-  ]
-updated: 2023-09-17 16:00:00
+    [
+        实用资源,
+        破解,
+        去广告,
+        纯净,
+        绿色,
+        白嫖,
+        免费,
+        Windows,
+        CorelDRAW Technical Suite,
+    ]
+updated: 2023-11-22 16:00:00
 ---
 
 # 简介
@@ -36,4 +36,4 @@ Corel DESIGNER Technical Suite 是一套专门为优化产品工艺制图和产�
 
 {% btn '/download/index.html?f=CorelDRAW-Technical-Suite-2022-24.5.0.731.zip','24.5.0.731 安装版' %}
 <br>
-{% btn '/download/index.html?f=CorelDRAW-Technical-Suite-2023-24.5.0.686-Repack.exe','24.5.0.686 直装版(Repack)' %}
+{% btn '/download/index.html?f=CorelDRAWТechniсаlSuitе-2023-24.5.0.731-CN-Reрack.exe','24.5.0.731 直装版(Repack)' %}
