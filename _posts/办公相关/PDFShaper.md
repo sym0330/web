@@ -1,12 +1,12 @@
 ---
-title: PDF Shaper Professional 13.7 (安装/便携) 学习版
+title: PDF Shaper Professional 13.8 (安装/便携) 学习版
 date: 2021-12-10 14:35:39
 categories: [实用资源, Windows, 办公相关]
 tags: [英文, 实用资源, Windows, 办公相关]
 urlname: pdfshaper
 cover: /img/PDFShaper/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, 办公相关]
-updated: 2023-10-04 07:00:00
+updated: 2023-11-29 06:00:00
 ---
 
 # 简介
@@ -26,4 +26,4 @@ updated: 2023-10-04 07:00:00
 
 {% btn '/download/index.html?f=PDF-Shaper-Professional-13.7.zip','13.7 安装版' %}
 <br>
-{% btn '/download/index.html?f=Pdfshaper-Professional-13.7-Portable.zip','13.7 便携版' %}
+{% btn '/download/index.html?f=Pdfshaper-Professional-13.8-Portable.zip','13.8 便携版' %}

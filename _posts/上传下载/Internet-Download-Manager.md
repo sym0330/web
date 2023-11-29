@@ -1,5 +1,5 @@
 ---
-title: Internet Download Manager 6.41.22 学习版
+title: Internet Download Manager 6.42.2 学习版
 date: 2021-06-02 21:26:55
 categories:
     - [实用资源, Windows, 上传下载]
@@ -8,7 +8,7 @@ tags: [中文, Internet Download Manager, IDM, Windows, 实用资源]
 urlname: internetdownloadmanager
 cover: /img/Internet-Download-Manager/1.png
 keywords: [中文, IDM, 白嫖, internet downloader manager]
-updated: 2023-10-22 06:00:00
+updated: 2023-11-29 06:00:00
 ---
 
 # 简介
@@ -21,4 +21,4 @@ updated: 2023-10-22 06:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=Internet-Download-Manager-6.41-Build-22.zip',下载 %}
+{% btn '/download/index.html?f=Internet-Download-Manager-6.42-Build-2.zip',下载 %}

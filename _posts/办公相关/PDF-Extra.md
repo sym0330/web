@@ -1,12 +1,12 @@
 ---
-title: PDF Extra 10.7.2189 学习版
+title: PDF Extra 10.8.2221 学习版
 date: 2022-01-12 21:58:12
 categories: [实用资源, Android, 办公相关]
 tags: [中文, 实用资源, Android, 办公相关]
 urlname: pdfextra
 cover: /img/PDF-Extra/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, 办公相关]
-updated: 2023-10-30 12:00:00
+updated: 2023-11-29 06:00:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ PDF Extra 是一款功能强大的专业 pdf 办公软件，使用该软件能�
 
 # 下载
 
-{% btn '/download/index.html?f=PDF-Extra-Premium-v10.7.2189-build-2189.apk',下载 %}
+{% btn '/download/index.html?f=PDF-Extra-Premium-v10.8.2221-build-2221.apk',下载 %}

@@ -3,7 +3,7 @@ title: Autodesk系列软件学习版
 tags: [英文, 实用资源, Windows, Autodesk]
 cover: /img/Autodesk/1.jpg
 date: 2023-09-02 02:40:04
-updated: 2023-11-11 04:00:00
+updated: 2023-11-29 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -111,6 +111,12 @@ Autodesk 是世界领先的设计软件和数字内容创建公司，用于建�
 | [Revit 2024.0.2 分卷 3](/download/index.html?f=Autodesk-Revit-2024.0.2.z02)           | 2023-09-02 |
 | [Revit 2024.0.2 分卷 4](/download/index.html?f=Autodesk-Revit-2024.0.2.z03)           | 2023-09-02 |
 | [Revit 2024.2 更新补丁](/download/index.html?f=Autodesk-Revit-2024.2-Update-Only.zip) | 2023-11-11 |
+
+## Robot
+
+| 软件名                                                                                        | 更新日期   |
+| --------------------------------------------------------------------------------------------- | ---------- |
+| [Robot 2024](/download/index.html?f=Autodesk-Robot-Structural-Analysis-Professional-2024.zip) | 2023-11-29 |
 
 ## ShotGrid
 

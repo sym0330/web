@@ -3,7 +3,7 @@ title: Ashampoo 系列软件学习版
 tags: [中文, 实用资源, Windows, Ashampoo]
 cover: /img/Ashampoo/1.jpg
 date: 2023-02-26 18:39:59
-updated: 2023-11-22 16:00:00
+updated: 2023-11-29 06:00:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -25,7 +25,7 @@ Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联
 | [Ashampoo PDF Pro 3.0.8 便携版](/download/index.html?f=Ashampoo-PDF-Pro_3.0.8_Portable.7z)                        | 2023-02-26 |
 | [Ashampoo WinOptimizer 26.00.20 安装版](/download/index.html?f=Ashampoo-WinOptimizer-26.00.20.zip)                | 2023-11-22 |
 | [Ashampoo WinOptimizer 26.00.13 便携版](/download/index.html?f=Ashampoo-Winoptimizer-26.00.13-Portable.zip)       | 2023-08-25 |
-| [Ashampoo Photo Optimizer 9.4.7 安装版](/download/index.html?f=Ashampoo-Photo-Optimizer-9.4.7.zip)                | 2023-08-10 |
+| [Ashampoo Photo Optimizer 10.0 安装版](/download/index.html?f=Ashampoo-Photo-Optimizer-10.0.zip)                  | 2023-11-29 |
 | [Ashampoo Photo Optimizer 9.3.7.36 便携版](/download/index.html?f=Ashampoo-Photo-Optimizer-9.3.7.36-Portable.zip) | 2023-08-25 |
 | [Ashampoo Uninstaller 14.00.11 安装版](/download/index.html?f=Ashampoo-UnInstaller-14.00.11.zip)                  | 2023-11-11 |
 | [Ashampoo Uninstaller 12.00.12 便携版](/download/index.html?f=Ashampoo-Uninstaller-12.00.12-Portable.zip)         | 2023-08-25 |

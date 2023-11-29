@@ -22,6 +22,6 @@ Typora 于 2021 年 11 月 23 日起发布 1.0 版本，开始成为收费软件
 
 # 下载
 
-> 由[**法海之路**](/laiyuan)修改
-
-{% btn '/download/index.html?f=Typora-1.7.6.zip' ,'下载' %}
+{% btn '/download/index.html?f=Typora-1.7.6.zip' ,'下载（含补丁1）' %}
+<br>
+{% btn 'https://github.com/hazukieq/Yporaject' ,'通用补丁2' %}
