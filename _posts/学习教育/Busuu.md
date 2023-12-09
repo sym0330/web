@@ -1,12 +1,12 @@
 ---
-title: 博树(Busuu) 31.3.2 学习版
+title: 博树(Busuu) 31.9.0 学习版
 date: 2021-12-20 22:50:00
 categories: [实用资源, Android, 学习教育]
 tags: [中文, 实用资源, Android, 学习教育]
 urlname: busuu
 cover: /img/Busuu/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, 学习教育]
-updated: 2023-10-11 16:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -19,4 +19,4 @@ updated: 2023-10-11 16:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=Busuu-v31.3.2-828895-Premium.apk',下载 %}
+{% btn '/download/index.html?f=Busuu-Premium-v31.9.0-40-876671.apk',下载 %}

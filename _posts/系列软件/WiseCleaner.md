@@ -3,7 +3,7 @@ title: WiseCleaner系列软件学习版
 tags: [中文, 实用资源, Windows, Wise]
 cover: /img/WiseCleaner/1.jpg
 date: 2023-11-17 04:23:27
-updated: 2023-11-29 06:00:00
+updated: 2023-12-05 04:30:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -25,9 +25,9 @@ keywords: [中文, 实用资源, Windows, Wise, 破解, 去广告, 纯净, 绿�
 | 文件                                                                                                                | 更新时间   |
 | ------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [Wise Care 365 Pro 6.6.3.633 安装版](/download/index.html?f=Wise-Care-365-Pro-6.6.3.633.zip)                        | 2023-11-22 |
-| [Wise Care 365 Pro 6.6.2.632 便携版](/download/index.html?f=Wise-Care-Pro-6.6.2.632-Portable.zip)                   | -          |
+| [Wise Care 365 Pro 6.6.3.633 便携版](/download/index.html?f=Wise-Care-Pro-6.6.3.633-Portable.zip)                   | 2023-12-05 |
 | [Wise Registry Cleaner Pro 11.1.2.717 安装版](/download/index.html?f=Wise-Registry-Cleaner-Pro-11.1.2.717.zip)      | 2023-11-29 |
-| [Wise Registry Cleaner Pro 11.1.1.716 便携版](/download/index.html?f=Wise-Registry-Cleaner-11.1.1.716-Portable.zip) | -          |
+| [Wise Registry Cleaner Pro 11.1.2.717 便携版](/download/index.html?f=Wise-Registry-Cleaner-11.1.2.717-Portable.zip) | 2023-12-05 |
 | [Wise Duplicate Finder Pro 2.0.4.60 安装版](/download/index.html?f=Wise-Duplicate-Finder-Pro-2.0.4.60.zip)          | -          |
 | [Wise Data Recovery Pro 6.1.4.496 安装版](/download/index.html?f=Wise-Data-Recovery-Pro-6.1.4.496.zip)              | -          |
 | [Wise Folder Hider Pro 5.0.2.232 安装版](/download/index.html?f=Wise-Folder-Hider-Pro-5.0.2.232.zip)                | -          |

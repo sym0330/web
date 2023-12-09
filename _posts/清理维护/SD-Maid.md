@@ -1,12 +1,12 @@
 ---
-title: SD Maid 5.5.10/SE 0.15.3-Beta 学习版
+title: SD Maid 5.5.10/SE 0.17.2-Beta 学习版
 date: 2021-09-12 11:29:10
 categories: [实用资源, Android, 清理维护]
 tags: [中文, 实用资源, Android, SD Maid]
 urlname: sdmaid
 cover: /img/SD-Maid/1.png
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Android, SD Maid]
-updated: 2023-10-30 12:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -27,4 +27,4 @@ SD 女佣 SD Maid Pro 将会以完善的方式帮您整理、清洁 android 设�
 
 {% btn '/download/index.html?f=SD-Maid-v5.5.10.apk','SD Maid' %}
 <br>
-{% btn '/download/index.html?f=SD-Maid-SE-0.15.3-beta0.apk','SD Maid SE' %}
+{% btn '/download/index.html?f=SD-Maid-2-SE-System-Cleaner-v0.17.2-beta0.apk','SD Maid SE' %}

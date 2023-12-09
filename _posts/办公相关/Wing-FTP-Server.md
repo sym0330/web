@@ -1,12 +1,13 @@
 ---
-title: Wing FTP Server Corporate 7.2.0 学习版
+title: Wing FTP Server Corporate 7.2.8 学习版
 date: 2021-09-15 12:01:01
 categories: [实用资源, Windows, 办公相关]
 tags: [中文, 实用资源, Windows, Wing FTP Server]
 urlname: wingftpserver
 cover: /img/Wing-FTP-Server/1.png
-keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Wing FTP Server]
-updated: 2023-04-02 11:00:00
+keywords:
+    [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Wing FTP Server]
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -19,4 +20,4 @@ Wing FTP Server，是一个专业的跨平台 FTP 服务器端，它拥有不错
 
 # 下载
 
-{% btn '/download/index.html?f=Wing-FTP-Server-Corporate-7.2.0.zip',下载 %}
+{% btn '/download/index.html?f=Wing-FTP-Server-Corporate-7.2.8.zip',下载 %}

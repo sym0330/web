@@ -7,7 +7,7 @@ urlname: wintoolsnet
 cover: /img/WinTools-net/1.jpg
 keywords:
     [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, WinTools.net]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -22,4 +22,4 @@ WinTools.net 是一系列的系统优化组合软件，可以从系统中移除�
 
 {% btn '/download/index.html?f=WinTools.net-Professional-Premium-Classic-23.12.1.zip','23.12.1 安装版' %}
 <br>
-{% btn '/download/index.html?f=WinTools.net-Premium-23.8.1-Portable.zip','23.8.1 便携版' %}
+{% btn '/download/index.html?f=Wintools.net-Premium-23.12.1-Portable.zip','23.12.1 便携版' %}

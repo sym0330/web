@@ -8,7 +8,7 @@ categories:
     - [合集]
 urlname: cyberlink
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, CyberLink]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -25,7 +25,7 @@ CYBERLINK 总部位于台湾的讯连科技创立于 1995 年，拥有顶尖视�
 | [CyberLink ColorDirector Ultra 12.0.3523.11](/download/index.html?f=CyberLink-ColorDirector-Ultra-2024-v12.0.3523.11.zip)     | 2023-11-29 |
 | [CyberLink AudioDirector Ultra 14.0.3523.11](/download/index.html?f=CyberLink-AudioDirector-Ultra-2024-v14.0.3523.11.zip)     | 2023-11-29 |
 | [CyberLink PowerDirector Ultimate 22.0.2323.0](/download/index.html?f=CyberLink-PowerDirector-Ultimate-2024-v22.0.2323.0.zip) | 2023-11-29 |
-| [CyberLink PowerDVD Ultra 22.0.3418.62](/download/index.html?f=CyberLink-PowerDVD-Ultra-22.0.3418.62.zip)                     | 2023-10-30 |
+| [CyberLink PowerDVD Ultra 22.0.3526.62](/download/index.html?f=CyberLink-PowerDVD-Ultra-22.0.3526.62.zip)                     | 2023-12-05 |
 | [CyberLink PhotoDirector Ultra 15.0.1123.0](/download/index.html?f=CyberLink-PhotoDirector-Ultra-2024-v15.0.1123.0.zip)       | 2023-11-29 |
 | [CyberLink YouCam 10.1.2717.0](/download/index.html?f=CyberLink-YouCam-10.1.2717.0.zip)                                       | 2023-03-23 |
 | [CyberLink PerfectCam Premium 2.3.6007.0](/download/index.html?f=CyberLink-PerfectCam-Premium_2.3.6007.0.7z)                  | 2022-12-24 |

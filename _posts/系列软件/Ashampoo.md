@@ -3,7 +3,7 @@ title: Ashampoo 系列软件学习版
 tags: [中文, 实用资源, Windows, Ashampoo]
 cover: /img/Ashampoo/1.jpg
 date: 2023-02-26 18:39:59
-updated: 2023-11-29 06:00:00
+updated: 2023-12-05 04:30:00
 categories:
     - [实用资源, Windows, 系列软件]
     - [合集]
@@ -38,5 +38,5 @@ Ashampoo 是软件开发、销售和 Web 门户站点领域的全球领先互联
 | [Ashampoo Home Design 8.0 安装版](/download/index.html?f=Ashampoo-Home-Design-8.0.zip)                            | 2023-06-06 |
 | [Ashampoo Driver Updater 1.6.0 安装版](/download/index.html?f=Ashampoo-Driver-Updater-1.6.0.zip)                  | 2023-06-28 |
 | [Ashampoo ZIP Pro 4.50.01 安装版](/download/index.html?f=Ashampoo-ZIP-Pro-4.50.01.zip)                            | 2023-08-10 |
-| [Ashampoo Backup Pro 25.01 安装版](/download/index.html?f=Ashampoo-Backup-Pro-25.01.zip)                          | 2023-11-15 |
+| [Ashampoo Backup Pro 25.02 安装版](/download/index.html?f=Ashampoo-Backup-Pro-25.02-Mutilingual.zip)              | 2023-12-05 |
 | [Ashampoo Office 9 A1203.0831 安装版](/download/index.html?f=Ashampoo-Office-9-Rev-A1203.0831.zip)                | 2023-10-12 |

@@ -1,12 +1,12 @@
 ---
-title: WinToUSB Enterprise 8.2 (安装/便携) 学习版
+title: WinToUSB Enterprise 8.4 (安装/便携) 学习版
 date: 2021-11-22 21:33:46
 categories: [实用资源, Windows, 系统工具]
 tags: [中文, 实用资源, Windows, WinToUSB]
 urlname: wintousb
 cover: /img/WinToUSB/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, WinToUSB]
-updated: 2023-11-11 04:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -19,6 +19,6 @@ WinToUSB 是一个免费的应用软件。 它可以将 Windows 操作系统从 
 
 # 下载
 
-{% btn '/download/index.html?f=WinToUSB-8.2--All-Editions.zip','8.2 安装版' %}
+{% btn '/download/index.html?f=WinToUSB-8.4-All-Editions.zip','8.4 安装版' %}
 <br>
-{% btn '/download/index.html?f=Hasleo-Wintousb-8.2.0.2-Portable.zip','8.2 便携版' %}
+{% btn '/download/index.html?f=Hasleo-Wintousb-8.4.0.2-Portable.zip','8.4 便携版' %}

@@ -1,12 +1,12 @@
 ---
-title: Z-Info 1.0.45.17 便携版
+title: Z-Info 1.0.45.20 便携版
 date: 2022-01-24 12:49:03
 categories: [实用资源, Windows, 硬件相关]
 tags: [英文, 实用资源, Windows, Z-Info]
 urlname: zinfo
 cover: /img/Z-Info/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, Windows, Z-Info]
-updated: 2023-09-11 12:00:00
+updated: 2023-12-05 04:30:00
 ---
 
 # 简介
@@ -20,4 +20,4 @@ Z-Info(CPU-Z+GPU-Z+PCI-Z+SSD-Z) 是 Z 系列硬件分析的整合版软件软件
 
 # 下载
 
-{% btn '/download/index.html?f=Z-Info-1.0.45.17-Portable.zip',下载 %}
+{% btn '/download/index.html?f=Z-Info-1.0.45.20-Portable.zip',下载 %}
