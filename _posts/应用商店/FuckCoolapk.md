@@ -3,10 +3,10 @@ title: 酷安 13.0.1/C001apk 修改版
 date: 2021-08-25 15:35:46
 categories: [实用资源, Android, 应用商店]
 tags: [中文, 实用资源, 酷安, 修改版, xposed]
-urlname: fuckcoolapk
+urlname: coolapk
 cover: /img/FuckCoolapk/1.jpg
 keywords: [实用资源, 破解, 去广告, 纯净, 绿色, 白嫖, 免费, 酷安, 修改版, xposed]
-updated: 2023-11-29 06:00:00
+updated: 2023-12-09 02:00:00
 ---
 
 # 简介
@@ -19,6 +19,8 @@ updated: 2023-11-29 06:00:00
 
 # 下载
 
-{% btn '/download/index.html?f=酷安-13.0.1.apk',下载(Rikkati修改) %}
+{% btn '/download/index.html?f=酷安-13.0.1.apk','酷安修改版(Rikkati修改)' %}
 <br>
-{% btn '/download/index.html?f=c001apk-6317de1(127).apk',下载 %}
+{% btn 'https://t.me/c001apk','c001apk(第三方酷安)' %}
+<br>
+获取数字联盟 ID：官方 app 设置 → 关于 → 菜单（右上三点）→ 检测日志 → 复制 OAID(连点 4 下)

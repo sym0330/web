@@ -16,7 +16,7 @@ SwitchyOmega 是浏览器专用的代理设置工具，可以轻松快捷地管�
 # 安装 SwitchyOmega 扩展的浏览器
 
 可以安装扩展的浏览器有 Microsoft Edge、Chrome、Firefox 等
-如果你不会装浏览器扩展可以参考这篇文章的操作 [Tampermonkey（篡改猴） - 让网上冲浪体验飙升的浏览器插件 | Nite07 的小窝](../tampermonkey/)
+如果你不会装浏览器扩展可以参考这篇文章的操作 [Tampermonkey（篡改猴） - 让网上冲浪体验飙升的浏览器插件 | Nite07 的小窝](/tampermonkey/)
 
 ![](/img/Switchyomega/2.png)
 
